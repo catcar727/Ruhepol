@@ -1,7 +1,7 @@
-# RuheWerk
+# RuheWerk – Updates
 
-Minimalistischer Android-Launcher – weniger Bildschirm, mehr Leben.
+Hier liegen die Versionen von **RuheWerk** (de.hitzler.ruhepol), dem minimalistischen Android-Launcher.
+Die App liest beim Öffnen `latest.json` und bietet neue Versionen zur Installation an.
 
-Dieses Repo verteilt die Updates: RuheWerk liest `update.json` und lädt die APK aus `apk/`.
-Erste Installation: `apk/RuheWerk_<Version>.apk` herunterladen und installieren. Danach kommen Updates automatisch
-(Einstellungen → Sicherung & Über → Updates über GitHub).
+- Aktuelle Version: siehe `latest.json`
+- APK-Dateien: Ordner `apk/`
