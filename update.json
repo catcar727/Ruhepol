@@ -1,6 +1,6 @@
 {
-  "version": "2.41",
-  "apk": "apk/ruhewerk-2.41-release.apk",
-  "notes": "RuheWerk 2.41\n- Updates wie bei WetterWerk: latest.json mit Prüfsumme, Suche beim Öffnen (höchstens stündlich)\n- Morgen-Rückblick um 9 Uhr mit deinen Top 4 Apps von gestern\n- Gebaut für Android 17",
+  "version": "2.42",
+  "apk": "apk/ruhewerk-2.42-release.apk",
+  "notes": "RuheWerk 2.42\n- Morgen-Rückblick erscheint automatisch (Mitteilung + Karte auf dem Startbildschirm); nach dem Update wird nur die Uhrzeit gefragt\n- Update-Prüfung bei jedem Öffnen",
   "size": 758837
 }

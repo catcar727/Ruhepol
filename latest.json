@@ -1,11 +1,11 @@
 {
   "app": "RuheWerk",
   "package": "de.hitzler.ruhepol",
-  "version": "2.41",
-  "versionCode": 60,
-  "url": "https://raw.githubusercontent.com/catcar727/Ruhepol/main/apk/ruhewerk-2.41-release.apk",
+  "version": "2.42",
+  "versionCode": 61,
+  "url": "https://raw.githubusercontent.com/catcar727/Ruhepol/main/apk/ruhewerk-2.42-release.apk",
   "size": 758837,
-  "sha256": "57270fe7a82c899388cc61cf06c1906d1e06e4cfab2f1bf555677c8dbe96f168",
-  "date": "2026-11-25T08:22:21Z",
-  "notes": "RuheWerk 2.41\n- Updates wie bei WetterWerk: latest.json mit Prüfsumme, Suche beim Öffnen (höchstens stündlich)\n- Morgen-Rückblick um 9 Uhr mit deinen Top 4 Apps von gestern\n- Gebaut für Android 17"
+  "sha256": "8f184f5fbf66c74187c2aa6210d3aca1a8a52eb6590ec5288eae05037fbd4883",
+  "date": "2026-11-25T08:29:32Z",
+  "notes": "RuheWerk 2.42\n- Morgen-Rückblick erscheint automatisch (Mitteilung + Karte auf dem Startbildschirm); nach dem Update wird nur die Uhrzeit gefragt\n- Update-Prüfung bei jedem Öffnen"
 }
