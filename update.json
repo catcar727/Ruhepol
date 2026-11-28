@@ -1,6 +1,6 @@
 {
-  "version": "2.42",
-  "apk": "apk/ruhewerk-2.42-release.apk",
-  "notes": "RuheWerk 2.42\n- Morgen-Rückblick erscheint automatisch (Mitteilung + Karte auf dem Startbildschirm); nach dem Update wird nur die Uhrzeit gefragt\n- Update-Prüfung bei jedem Öffnen",
-  "size": 758837
+  "version": "2.43",
+  "apk": "apk/ruhewerk-2.43-release.apk",
+  "notes": "RuheWerk 2.43\n- Neu: Otto, dein RuheWerk-Begleiter – neues App-Symbol, neues Intro (läuft einmal nach dem Update), Begrüßung in den Einstellungen",
+  "size": 1340551
 }
